@@ -60,3 +60,16 @@
 	Resources:
 		* https://forum.sublimetext.com/t/what-s-the-best-way-to-backup-the-st3-configuration/25494
 
+* ## Vagrant
+	* ### Install Prerequierements
+		```
+		sudo apt-get install vagrant
+		sudo apt-get install virtualbox
+		sudo apt-get install virtualbox-guest-x11
+		```
+	
+	* ### Common commands
+		* `vagrant up` - start and compile
+		* `vagrant halt` - shutdown
+		* `vagrant ssh` - ssh to the virtual machine
+
