@@ -72,4 +72,5 @@
 		* `vagrant up` - start and compile
 		* `vagrant halt` - shutdown
 		* `vagrant ssh` - ssh to the virtual machine
+		* `vagrant reload` - update after changing the config
 
