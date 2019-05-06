@@ -53,3 +53,10 @@
 		* https://askubuntu.com/questions/510024/what-are-the-steps-needed-to-create-new-keyboard-layout-on-ubuntu
 		* https://forums.linuxmint.com/viewtopic.php?t=228743
 		* http://people.uleth.ca/~daniel.odonnell/Blog/custom-keyboard-in-linuxx11
+
+* ## Sublime
+	All of my sublime setup is in https://github.com/pkostadinov90/sublime-text-3-sync
+	
+	Resources:
+		* https://forum.sublimetext.com/t/what-s-the-best-way-to-backup-the-st3-configuration/25494
+
