@@ -72,6 +72,7 @@
 		* `vagrant halt` - shutdown
 		* `vagrant ssh` - ssh to the virtual machine
 		* `vagrant reload` - update after changing the config
+		* `vagrant destroy` - destroy the entire box
 		
 	* ### MySQL
 		* user: `dbuser`
