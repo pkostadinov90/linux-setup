@@ -49,3 +49,7 @@
 		```
 
 	* ### Reboot
+	* ### Resources
+		* https://askubuntu.com/questions/510024/what-are-the-steps-needed-to-create-new-keyboard-layout-on-ubuntu
+		* https://forums.linuxmint.com/viewtopic.php?t=228743
+		* http://people.uleth.ca/~daniel.odonnell/Blog/custom-keyboard-in-linuxx11
