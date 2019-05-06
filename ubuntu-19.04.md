@@ -73,4 +73,8 @@
 		* `vagrant halt` - shutdown
 		* `vagrant ssh` - ssh to the virtual machine
 		* `vagrant reload` - update after changing the config
+		
+	* ### MySQL
+		* user: `dbuser`
+		* pass: `toor`
 
